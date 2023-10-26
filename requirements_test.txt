@@ -5,4 +5,4 @@ mypy==0.800
 pydocstyle==5.1.1
 pylint==2.6.0
 pylint-strict-informational==0.1
-homeassistant==2021.1.4
+homeassistant==2023.9.0
